@@ -1,4 +1,5 @@
 .husky
+dist
 public
 .browserslistrc
 .gitignore
