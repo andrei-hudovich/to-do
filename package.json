@@ -12,6 +12,8 @@
     "format": "prettier --write ."
   },
   "dependencies": {
+    "normalize.css": "^8.0.1",
+    "sass-mq": "^6.0.0",
     "vue": "^3.2.45"
   },
   "devDependencies": {
