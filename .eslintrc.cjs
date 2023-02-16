@@ -11,5 +11,8 @@ module.exports = {
   ],
   parserOptions: {
     ecmaVersion: 'latest'
+  },
+  rules: {
+    'no-undef': 'off' // Recommendation from `unplugin-auto-import`
   }
 }

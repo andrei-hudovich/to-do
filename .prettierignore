@@ -1,0 +1,7 @@
+.husky
+dist
+public
+.browserslistrc
+.gitignore
+.nvmrc
+auto-imports.d.ts
