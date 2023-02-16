@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "stylelint-config-recommended-scss",
+    "stylelint-config-recommended-vue/scss",
+    "stylelint-config-hudochenkov/order"
+  ],
+  "rules": {
+    "no-empty-source": null
+  }
+}
